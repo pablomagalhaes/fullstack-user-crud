@@ -2,6 +2,16 @@
 
 Este é o backend da aplicação de CRUD de usuários, desenvolvido com NestJS, PostgreSQL e Redis.
 
+## Funcionamento da Aplicação
+
+### Tela de Login
+
+![Tela de Login](./docs/img/login.png)
+
+### Tela Principal (Home)
+
+![Tela Principal](./docs/img/home.png)
+
 ## Requisitos
 
 - Node.js (v16 ou superior)
